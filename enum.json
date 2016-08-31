@@ -1,0 +1,1657 @@
+[
+ {
+   "name": "E100",
+   "content": "Curcumin",
+   "type": "Colouring"
+ },
+ {
+   "name": "E101",
+   "content": "Riboflavin and/or Riboflavin-5'-phosphate",
+   "type": "Colouring"
+ },
+ {
+   "name": "E102",
+   "content": "Tartrazine",
+   "type": "Colouring"
+ },
+ {
+   "name": "E104",
+   "content": "Quinoline yellow",
+   "type": "Colouring"
+ },
+ {
+   "name": "E110",
+   "content": "Sunset Yellow FCF; Orange Yellow S",
+   "type": "Colouring"
+ },
+ {
+   "name": "E120",
+   "content": "Cochineal; Carminic acid; Carmines",
+   "type": "Colouring"
+ },
+ {
+   "name": "E122",
+   "content": "Azorubine; Carmoisine",
+   "type": "Colouring"
+ },
+ {
+   "name": "E123",
+   "content": "Amaranth",
+   "type": "Colouring"
+ },
+ {
+   "name": "E124",
+   "content": "Ponceau 4R; Cochineal Red A",
+   "type": "Colouring"
+ },
+ {
+   "name": "E127",
+   "content": "Erythrosine",
+   "type": "Colouring"
+ },
+ {
+   "name": "E129",
+   "content": "Allura Red AC",
+   "type": "Colouring"
+ },
+ {
+   "name": "E131",
+   "content": "Patent Blue V",
+   "type": "Colouring"
+ },
+ {
+   "name": "E132",
+   "content": "lndigotine; Indigo Carmine",
+   "type": "Colouring"
+ },
+ {
+   "name": "E133",
+   "content": "Brilliant Blue FCF",
+   "type": "Colouring"
+ },
+ {
+   "name": "E140",
+   "content": "Chlorophylls and chlorophyllins",
+   "type": "Colouring"
+ },
+ {
+   "name": "E141",
+   "content": "Copper complexes of chlorophyll and chlorophyllins",
+   "type": "Colouring"
+ },
+ {
+   "name": "E142",
+   "content": "Green S",
+   "type": "Colouring"
+ },
+ {
+   "name": "E150a",
+   "content": "Plain caramel",
+   "type": "Colouring"
+ },
+ {
+   "name": "E150b",
+   "content": "Caustic sulphite caramel",
+   "type": "Colouring"
+ },
+ {
+   "name": "E150c",
+   "content": "Ammonia caramel",
+   "type": "Colouring"
+ },
+ {
+   "name": "E150d",
+   "content": "Sulphite ammonia caramel",
+   "type": "Colouring"
+ },
+ {
+   "name": "E151",
+   "content": "Brilliant Black BN; Black PN",
+   "type": "Colouring"
+ },
+ {
+   "name": "E153",
+   "content": "Vegetable carbon",
+   "type": "Colouring"
+ },
+ {
+   "name": "E155",
+   "content": "Brown HT",
+   "type": "Colouring"
+ },
+ {
+   "name": "E160a",
+   "content": "Carotenes",
+   "type": "Colouring"
+ },
+ {
+   "name": "E160b",
+   "content": "Annatto; Bixin; Norbixin",
+   "type": "Colouring"
+ },
+ {
+   "name": "E160c",
+   "content": "Paprika extract; Capsanthian; Capsorubin",
+   "type": "Colouring"
+ },
+ {
+   "name": "E160d",
+   "content": "Lycopene",
+   "type": "Colouring"
+ },
+ {
+   "name": "E160e",
+   "content": "Beta-apo-8'-carotenal (C30)",
+   "type": "Colouring"
+ },
+ {
+   "name": "E161b",
+   "content": "Lutein",
+   "type": "Colouring"
+ },
+ {
+   "name": "E161g",
+   "content": "Canthaxanthin",
+   "type": "Colouring"
+ },
+ {
+   "name": "E162",
+   "content": "Beetroot Red; Betanin",
+   "type": "Colouring"
+ },
+ {
+   "name": "E163",
+   "content": "Anthocyanins",
+   "type": "Colouring"
+ },
+ {
+   "name": "E170",
+   "content": "Calcium carbonate",
+   "type": "Colouring"
+ },
+ {
+   "name": "E171",
+   "content": "Titanium dioxide",
+   "type": "Colouring"
+ },
+ {
+   "name": "E172",
+   "content": "Iron oxides and hydroxides",
+   "type": "Colouring"
+ },
+ {
+   "name": "E173",
+   "content": "Aluminium",
+   "type": "Colouring"
+ },
+ {
+   "name": "E174",
+   "content": "Silver",
+   "type": "Colouring"
+ },
+ {
+   "name": "E175",
+   "content": "Gold",
+   "type": "Colouring"
+ },
+ {
+   "name": "E180",
+   "content": "Litholrubine BK",
+   "type": "Colouring"
+ },
+ {
+   "name": "E200",
+   "content": "Sorbic acid",
+   "type": "Preservative"
+ },
+ {
+   "name": "E202",
+   "content": "Potassium sorbate",
+   "type": "Preservative"
+ },
+ {
+   "name": "E203",
+   "content": "Calcium sorbate",
+   "type": "Preservative"
+ },
+ {
+   "name": "E210",
+   "content": "Benzoic acid",
+   "type": "Preservative"
+ },
+ {
+   "name": "E211",
+   "content": "Sodium benzoate",
+   "type": "Preservative"
+ },
+ {
+   "name": "E212",
+   "content": "Potassium benzoate",
+   "type": "Preservative"
+ },
+ {
+   "name": "E213",
+   "content": "Calcium benzoate",
+   "type": "Preservative"
+ },
+ {
+   "name": "E214",
+   "content": "Ethyl p-hydroxybenzoate",
+   "type": "Preservative"
+ },
+ {
+   "name": "E215",
+   "content": "Sodium ethyl p-hydroxybenzoate",
+   "type": "Preservative"
+ },
+ {
+   "name": "E218",
+   "content": "Methyl p-hydroxybenzoate",
+   "type": "Preservative"
+ },
+ {
+   "name": "E219",
+   "content": "Sodium methyl p-hydroxybenzoate",
+   "type": "Preservative"
+ },
+ {
+   "name": "E220",
+   "content": "Sulphur dioxide",
+   "type": "Preservative"
+ },
+ {
+   "name": "E221",
+   "content": "Sodium sulphite",
+   "type": "Preservative"
+ },
+ {
+   "name": "E222",
+   "content": "Sodium hydrogen sulphite",
+   "type": "Preservative"
+ },
+ {
+   "name": "E223",
+   "content": "Sodium metabisulphite",
+   "type": "Preservative"
+ },
+ {
+   "name": "E224",
+   "content": "Potassium metabisulphite",
+   "type": "Preservative"
+ },
+ {
+   "name": "E226",
+   "content": "Calcium sulphite",
+   "type": "Preservative"
+ },
+ {
+   "name": "E227",
+   "content": "Calcium hydrogen sulphite",
+   "type": "Preservative"
+ },
+ {
+   "name": "E228",
+   "content": "Potassium hydrogen sulphite",
+   "type": "Preservative"
+ },
+ {
+   "name": "E234",
+   "content": "Nisin",
+   "type": "Preservative"
+ },
+ {
+   "name": "E235",
+   "content": "Natamycin",
+   "type": "Preservative"
+ },
+ {
+   "name": "E239",
+   "content": "Hexamethylene tetramine",
+   "type": "Preservative"
+ },
+ {
+   "name": "E242",
+   "content": "Dimethyl dicarbonate",
+   "type": "Preservative"
+ },
+ {
+   "name": "E243",
+   "content": "Ethyl lauroyl arginate",
+   "type": "Preservative"
+ },
+ {
+   "name": "E249",
+   "content": "Potassium nitrite",
+   "type": "Preservative"
+ },
+ {
+   "name": "E250",
+   "content": "Sodium nitrite",
+   "type": "Preservative"
+ },
+ {
+   "name": "E251",
+   "content": "Sodium nitrate",
+   "type": "Preservative"
+ },
+ {
+   "name": "E252",
+   "content": "Potassium nitrate",
+   "type": "Preservative"
+ },
+ {
+   "name": "E280",
+   "content": "Propionic acid",
+   "type": "Preservative"
+ },
+ {
+   "name": "E281",
+   "content": "Sodium propionate",
+   "type": "Preservative"
+ },
+ {
+   "name": "E282",
+   "content": "Calcium propionate",
+   "type": "Preservative"
+ },
+ {
+   "name": "E283",
+   "content": "Potassium propionate",
+   "type": "Preservative"
+ },
+ {
+   "name": "E284",
+   "content": "Boric acid",
+   "type": "Preservative"
+ },
+ {
+   "name": "E285",
+   "content": "Sodium tetraborate; borax",
+   "type": "Preservative"
+ },
+ {
+   "name": "E1105",
+   "content": "Lysozyme",
+   "type": "Preservative"
+ },
+ {
+   "name": "E300",
+   "content": "Ascorbic acid",
+   "type": "Antioxidant"
+ },
+ {
+   "name": "E301",
+   "content": "Sodium ascorbate",
+   "type": "Antioxidant"
+ },
+ {
+   "name": "E302",
+   "content": "Calcium ascorbate",
+   "type": "Antioxidant"
+ },
+ {
+   "name": "E304",
+   "content": "Fatty acid esters of ascorbic acid",
+   "type": "Antioxidant"
+ },
+ {
+   "name": "E306",
+   "content": "Tocopherols",
+   "type": "Antioxidant"
+ },
+ {
+   "name": "E307",
+   "content": "Alpha-tocopherol",
+   "type": "Antioxidant"
+ },
+ {
+   "name": "E308",
+   "content": "Gamma-tocopherol",
+   "type": "Antioxidant"
+ },
+ {
+   "name": "E309",
+   "content": "Delta-tocopherol",
+   "type": "Antioxidant"
+ },
+ {
+   "name": "E310",
+   "content": "Propyl gallate",
+   "type": "Antioxidant"
+ },
+ {
+   "name": "E311",
+   "content": "Octyl gallate",
+   "type": "Antioxidant"
+ },
+ {
+   "name": "E312",
+   "content": "Dodecyl gallate",
+   "type": "Antioxidant"
+ },
+ {
+   "name": "E315",
+   "content": "Erythorbic acid",
+   "type": "Antioxidant"
+ },
+ {
+   "name": "E316",
+   "content": "Sodium erythorbate",
+   "type": "Antioxidant"
+ },
+ {
+   "name": "E319",
+   "content": "Tertiary-butyl hydroquinone (TBHQ)",
+   "type": "Antioxidant"
+ },
+ {
+   "name": "E320",
+   "content": "Butylated hydroxyanisole (BHA)",
+   "type": "Antioxidant"
+ },
+ {
+   "name": "E321",
+   "content": "Butylated hydroxytoluene (BHT)",
+   "type": "Antioxidant"
+ },
+ {
+   "name": "E392",
+   "content": "Extracts of rosemary",
+   "type": "Antioxidant"
+ },
+ {
+   "name": "E586",
+   "content": "4-Hexylresorcinol",
+   "type": "Antioxidant"
+ },
+ {
+   "name": "E420",
+   "content": "Sorbitol and/or Sorbitol syrup",
+   "type": "Sweetener"
+ },
+ {
+   "name": "E421",
+   "content": "Mannitol",
+   "type": "Sweetener"
+ },
+ {
+   "name": "E950",
+   "content": "Acesulfame K",
+   "type": "Sweetener"
+ },
+ {
+   "name": "E951",
+   "content": "Aspartame",
+   "type": "Sweetener"
+ },
+ {
+   "name": "E952",
+   "content": "Cyclamic acid and its Na and Ca salts",
+   "type": "Sweetener"
+ },
+ {
+   "name": "E953",
+   "content": "lsomalt",
+   "type": "Sweetener"
+ },
+ {
+   "name": "E954",
+   "content": "Saccharin and its Na, K and Ca salts",
+   "type": "Sweetener"
+ },
+ {
+   "name": "E955",
+   "content": "Sucralose",
+   "type": "Sweetener"
+ },
+ {
+   "name": "E957",
+   "content": "Thaumatin",
+   "type": "Sweetener"
+ },
+ {
+   "name": "E959",
+   "content": "Neohesperidine DC",
+   "type": "Sweetener"
+ },
+ {
+   "name": "E960",
+   "content": "Steviol glycoside",
+   "type": "Sweetener"
+ },
+ {
+   "name": "E961",
+   "content": "Neotame",
+   "type": "Sweetener"
+ },
+ {
+   "name": "E962",
+   "content": "Salt of aspartame-acesulfame",
+   "type": "Sweetener"
+ },
+ {
+   "name": "E964",
+   "content": "Polyglycitol syrup",
+   "type": "Sweetener"
+ },
+ {
+   "name": "E965",
+   "content": "Maltitol and/or Maltitol syrup",
+   "type": "Sweetener"
+ },
+ {
+   "name": "E966",
+   "content": "Lactitol",
+   "type": "Sweetener"
+ },
+ {
+   "name": "E967",
+   "content": "Xylitol",
+   "type": "Sweetener"
+ },
+ {
+   "name": "E968",
+   "content": "Erythritol",
+   "type": "Sweetener"
+ },
+ {
+   "name": "E969",
+   "content": "Advantame",
+   "type": "Sweetener"
+ },
+ {
+   "name": "E322",
+   "content": "Lecithins",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E400",
+   "content": "Alginic acid",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E401",
+   "content": "Sodium alginate",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E402",
+   "content": "Potassium alginate",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E403",
+   "content": "Ammonium alginate",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E404",
+   "content": "Calcium alginate",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E405",
+   "content": "Propane-1,2-diol alginate",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E406",
+   "content": "Agar",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E407",
+   "content": "Carrageenan",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E407a",
+   "content": "Processed eucheuma seaweed",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E410",
+   "content": "Locust bean gum; carob gum",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E412",
+   "content": "Guar gum",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E413",
+   "content": "Tragacanth",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E414",
+   "content": "Acacia gum; gum arabic",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E415",
+   "content": "Xanthan gum",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E416",
+   "content": "Karaya gum",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E417",
+   "content": "Tara gum",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E418",
+   "content": "Gellan gum",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E425",
+   "content": "Konjac",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E426",
+   "content": "Soybean hemicellulose",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E427",
+   "content": "Cassia gum",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E432",
+   "content": "Polyoxyethylene sorbitan monolaurate; Polysorbate 20",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E433",
+   "content": "Polyoxyethylene sorbitan mono-oleate; Polysorbate 80",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E434",
+   "content": "Polyoxyethylene sorbitan monopalmitate; Polysorbate 40",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E435",
+   "content": "Polyoxyethylene sorbitan monostearate; Polysorbate 60",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E436",
+   "content": "Polyoxyethylene sorbitan tristearate; Polysorbate 65",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E440",
+   "content": "Pectins",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E442",
+   "content": "Ammonium phosphatides",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E444",
+   "content": "Sucrose acetate isobutyrate",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E445",
+   "content": "Glycerol esters of wood rosins",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E460",
+   "content": "Cellulose",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E461",
+   "content": "Methyl cellulose",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E462",
+   "content": "Ethyl cellulose",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E463",
+   "content": "Hydroxypropyl cellulose",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E464",
+   "content": "Hydroxypropyl methyl cellulose",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E465",
+   "content": "Ethyl methyl cellulose",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E466",
+   "content": "Carboxy methyl cellulose",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E468",
+   "content": "Crosslinked sodium carboxy methyl cellulose",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E469",
+   "content": "Enzymatically hydrolysed carboxy methyl cellulose",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E470a",
+   "content": "Sodium, potassium and calcium salts of fatty acids",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E470b",
+   "content": "Magnesium salts of fatty acids",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E471",
+   "content": "Mono- and diglycerides of fatty acids",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E472a",
+   "content": "Acetic acid esters of mono- and diglycerides of fatty acids",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E472b",
+   "content": "Lactic acid esters of mono- and diglycerides of fatty acids",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E472c",
+   "content": "Citric acid esters of mono- and diglycerides of fatty acids",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E472d",
+   "content": "Tartaric acid esters of mono- and diglycerides of fatty acids",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E472e",
+   "content": "Mono- and diacetyltartaric acid esters of mono-and diglycerides of fatty acids",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E472f",
+   "content": "Mixed acetic and tartaric acid esters of mono-and diglycerides of fatty acids",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E473",
+   "content": "Sucrose esters of fatty acids",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E474",
+   "content": "Sucroglycerides",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E475",
+   "content": "Polyglycerol esters of fatty acids",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E476",
+   "content": "Polyglycerol polyricinoleate",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E477",
+   "content": "Propane-1,2-diol esters of fatty acids",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E479b",
+   "content": "Thermally oxidised soya bean oil interacted with mono­ and diglycerides of fatty acids",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E481",
+   "content": "Sodium stearoyl-2-lactylate",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E482",
+   "content": "Calcium stearoyl-2-lactylate",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E483",
+   "content": "Stearyl tartrate",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E491",
+   "content": "Sorbitan monostearate",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E492",
+   "content": "Sorbitan tristearate",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E493",
+   "content": "Sorbitan monolaurate",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E494",
+   "content": "Sorbitan monooleate",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E495",
+   "content": "Sorbitan monopalmitate",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E1103",
+   "content": "Invertase",
+   "type": "Emulsifier, stabiliser, thickener or gelling agent"
+ },
+ {
+   "name": "E260",
+   "content": "Acetic acid",
+   "type": "Other"
+ },
+ {
+   "name": "E261",
+   "content": "Potassium acetate",
+   "type": "Other"
+ },
+ {
+   "name": "E262",
+   "content": "Sodium acetate",
+   "type": "Other"
+ },
+ {
+   "name": "E263",
+   "content": "Calcium acetate",
+   "type": "Other"
+ },
+ {
+   "name": "E270",
+   "content": "Lactic acid",
+   "type": "Other"
+ },
+ {
+   "name": "E290",
+   "content": "Carbon dioxide",
+   "type": "Other"
+ },
+ {
+   "name": "E296",
+   "content": "Malic acid",
+   "type": "Other"
+ },
+ {
+   "name": "E297",
+   "content": "Fumaric acid",
+   "type": "Other"
+ },
+ {
+   "name": "E325",
+   "content": "Sodium lactate",
+   "type": "Other"
+ },
+ {
+   "name": "E326",
+   "content": "Potassium lactate",
+   "type": "Other"
+ },
+ {
+   "name": "E327",
+   "content": "Calcium lactate",
+   "type": "Other"
+ },
+ {
+   "name": "E330",
+   "content": "Citric acid",
+   "type": "Other"
+ },
+ {
+   "name": "E331",
+   "content": "Sodium citrates",
+   "type": "Other"
+ },
+ {
+   "name": "E332",
+   "content": "Potassium citrates",
+   "type": "Other"
+ },
+ {
+   "name": "E333",
+   "content": "Calcium citrates",
+   "type": "Other"
+ },
+ {
+   "name": "E334",
+   "content": "Tartaric acid (L-(+))",
+   "type": "Other"
+ },
+ {
+   "name": "E335",
+   "content": "Sodium tartrates",
+   "type": "Other"
+ },
+ {
+   "name": "E336",
+   "content": "Potassium tartrates",
+   "type": "Other"
+ },
+ {
+   "name": "E337",
+   "content": "Sodium potassium tartrate",
+   "type": "Other"
+ },
+ {
+   "name": "E338",
+   "content": "Phosphoric acid",
+   "type": "Other"
+ },
+ {
+   "name": "E339",
+   "content": "Sodium phosphates",
+   "type": "Other"
+ },
+ {
+   "name": "E340",
+   "content": "Potassium phosphates",
+   "type": "Other"
+ },
+ {
+   "name": "E341",
+   "content": "Calcium phosphates",
+   "type": "Other"
+ },
+ {
+   "name": "E343",
+   "content": "Magnesium phosphates",
+   "type": "Other"
+ },
+ {
+   "name": "E350",
+   "content": "Sodium malates",
+   "type": "Other"
+ },
+ {
+   "name": "E351",
+   "content": "Potassium malate",
+   "type": "Other"
+ },
+ {
+   "name": "E352",
+   "content": "Calcium malates",
+   "type": "Other"
+ },
+ {
+   "name": "E353",
+   "content": "Metatartaric acid",
+   "type": "Other"
+ },
+ {
+   "name": "E354",
+   "content": "Calcium tartrate",
+   "type": "Other"
+ },
+ {
+   "name": "E355",
+   "content": "Adipic acid",
+   "type": "Other"
+ },
+ {
+   "name": "E356",
+   "content": "Sodium adipate",
+   "type": "Other"
+ },
+ {
+   "name": "E357",
+   "content": "Potassium adipate",
+   "type": "Other"
+ },
+ {
+   "name": "E363",
+   "content": "Succinic acid",
+   "type": "Other"
+ },
+ {
+   "name": "E380",
+   "content": "Triammonium citrate",
+   "type": "Other"
+ },
+ {
+   "name": "E385",
+   "content": "Calcium disodium ethylene diamine tetra-acetate; calcium disodium EDTA",
+   "type": "Other"
+ },
+ {
+   "name": "E422",
+   "content": "Glycerol",
+   "type": "Other"
+ },
+ {
+   "name": "E423",
+   "content": "Octenyl succinic acid modified gum Arabic",
+   "type": "Other"
+ },
+ {
+   "name": "E431",
+   "content": "Polyoxyethylene (40) stearate",
+   "type": "Other"
+ },
+ {
+   "name": "E450",
+   "content": "Diphosphates",
+   "type": "Other"
+ },
+ {
+   "name": "E451",
+   "content": "Triphosphates",
+   "type": "Other"
+ },
+ {
+   "name": "E452",
+   "content": "Polyphosphates",
+   "type": "Other"
+ },
+ {
+   "name": "E459",
+   "content": "Beta-cyclodextrin",
+   "type": "Other"
+ },
+ {
+   "name": "E499",
+   "content": "Stigmasterol-rich plant sterols",
+   "type": "Other"
+ },
+ {
+   "name": "E500",
+   "content": "Sodium carbonates",
+   "type": "Other"
+ },
+ {
+   "name": "E501",
+   "content": "Potassium carbonates",
+   "type": "Other"
+ },
+ {
+   "name": "E503",
+   "content": "Ammonium carbonates",
+   "type": "Other"
+ },
+ {
+   "name": "E504",
+   "content": "Magnesium carbonates",
+   "type": "Other"
+ },
+ {
+   "name": "E507",
+   "content": "Hydrochloric acid",
+   "type": "Other"
+ },
+ {
+   "name": "E508",
+   "content": "Potassium chloride",
+   "type": "Other"
+ },
+ {
+   "name": "E509",
+   "content": "Calcium chloride",
+   "type": "Other"
+ },
+ {
+   "name": "E511",
+   "content": "Magnesium chloride",
+   "type": "Other"
+ },
+ {
+   "name": "E512",
+   "content": "Stannous chloride",
+   "type": "Other"
+ },
+ {
+   "name": "E513",
+   "content": "Sulphuric acid",
+   "type": "Other"
+ },
+ {
+   "name": "E514",
+   "content": "Sodium sulphates",
+   "type": "Other"
+ },
+ {
+   "name": "E515",
+   "content": "Potassium sulphates",
+   "type": "Other"
+ },
+ {
+   "name": "E516",
+   "content": "Calcium sulphate",
+   "type": "Other"
+ },
+ {
+   "name": "E517",
+   "content": "Ammonium sulphate",
+   "type": "Other"
+ },
+ {
+   "name": "E520",
+   "content": "Aluminium sulphate",
+   "type": "Other"
+ },
+ {
+   "name": "E521",
+   "content": "Aluminium sodium sulphate",
+   "type": "Other"
+ },
+ {
+   "name": "E522",
+   "content": "Aluminium potassium sulphate",
+   "type": "Other"
+ },
+ {
+   "name": "E523",
+   "content": "Aluminium ammonium sulphate",
+   "type": "Other"
+ },
+ {
+   "name": "E524",
+   "content": "Sodium hydroxide",
+   "type": "Other"
+ },
+ {
+   "name": "E525",
+   "content": "Potassium hydroxide",
+   "type": "Other"
+ },
+ {
+   "name": "E526",
+   "content": "Calcium hydroxide",
+   "type": "Other"
+ },
+ {
+   "name": "E527",
+   "content": "Ammonium hydroxide",
+   "type": "Other"
+ },
+ {
+   "name": "E528",
+   "content": "Magnesium hydroxide",
+   "type": "Other"
+ },
+ {
+   "name": "E529",
+   "content": "Calcium oxide",
+   "type": "Other"
+ },
+ {
+   "name": "E530",
+   "content": "Magnesium oxide",
+   "type": "Other"
+ },
+ {
+   "name": "E535",
+   "content": "Sodium ferrocyanide",
+   "type": "Other"
+ },
+ {
+   "name": "E536",
+   "content": "Potassium ferrocyanide",
+   "type": "Other"
+ },
+ {
+   "name": "E538",
+   "content": "Calcium ferrocyanide",
+   "type": "Other"
+ },
+ {
+   "name": "E541",
+   "content": "Sodium aluminium phosphate",
+   "type": "Other"
+ },
+ {
+   "name": "E551",
+   "content": "Silicon dioxide",
+   "type": "Other"
+ },
+ {
+   "name": "E552",
+   "content": "Calcium silicate",
+   "type": "Other"
+ },
+ {
+   "name": "E553a",
+   "content": "Magnesium silicate and/or Magnesium trisilicate",
+   "type": "Other"
+ },
+ {
+   "name": "E553b",
+   "content": "Talc",
+   "type": "Other"
+ },
+ {
+   "name": "E554",
+   "content": "Sodium aluminium silicate",
+   "type": "Other"
+ },
+ {
+   "name": "E555",
+   "content": "Potassium aluminium silicate",
+   "type": "Other"
+ },
+ {
+   "name": "E556",
+   "content": "Aluminium calcium silicate",
+   "type": "Other"
+ },
+ {
+   "name": "E559",
+   "content": "Aluminium silicate; Kaolin",
+   "type": "Other"
+ },
+ {
+   "name": "E570",
+   "content": "Fatty acids",
+   "type": "Other"
+ },
+ {
+   "name": "E574",
+   "content": "Gluconic acid",
+   "type": "Other"
+ },
+ {
+   "name": "E575",
+   "content": "Glucono delta-lactone",
+   "type": "Other"
+ },
+ {
+   "name": "E576",
+   "content": "Sodium gluconate",
+   "type": "Other"
+ },
+ {
+   "name": "E577",
+   "content": "Potassium gluconate",
+   "type": "Other"
+ },
+ {
+   "name": "E578",
+   "content": "Calcium gluconate",
+   "type": "Other"
+ },
+ {
+   "name": "E579",
+   "content": "Ferrous gluconate",
+   "type": "Other"
+ },
+ {
+   "name": "E585",
+   "content": "Ferrous lactate",
+   "type": "Other"
+ },
+ {
+   "name": "E620",
+   "content": "Glutamic acid",
+   "type": "Other"
+ },
+ {
+   "name": "E621",
+   "content": "Monosodium glutamate",
+   "type": "Other"
+ },
+ {
+   "name": "E622",
+   "content": "Monopotassium glutamate",
+   "type": "Other"
+ },
+ {
+   "name": "E623",
+   "content": "Calcium diglutamate",
+   "type": "Other"
+ },
+ {
+   "name": "E624",
+   "content": "Monoammonium glutamate",
+   "type": "Other"
+ },
+ {
+   "name": "E625",
+   "content": "Magnesium diglutamate",
+   "type": "Other"
+ },
+ {
+   "name": "E626",
+   "content": "Guanylic acid",
+   "type": "Other"
+ },
+ {
+   "name": "E627",
+   "content": "Disodium guanylate",
+   "type": "Other"
+ },
+ {
+   "name": "E628",
+   "content": "Dipotassium guanylate",
+   "type": "Other"
+ },
+ {
+   "name": "E629",
+   "content": "Calcium guanylate",
+   "type": "Other"
+ },
+ {
+   "name": "E630",
+   "content": "lnosinic acid",
+   "type": "Other"
+ },
+ {
+   "name": "E631",
+   "content": "Disodium inosinate",
+   "type": "Other"
+ },
+ {
+   "name": "E632",
+   "content": "Dipotassium inosinate",
+   "type": "Other"
+ },
+ {
+   "name": "E633",
+   "content": "Calcium inosinate",
+   "type": "Other"
+ },
+ {
+   "name": "E634",
+   "content": "Calcium 5'-ribonucleotides",
+   "type": "Other"
+ },
+ {
+   "name": "E635",
+   "content": "Disodium 5'-ribonucleotides",
+   "type": "Other"
+ },
+ {
+   "name": "E640",
+   "content": "Glycine and its sodium salt",
+   "type": "Other"
+ },
+ {
+   "name": "E641",
+   "content": "L-leucine",
+   "type": "Other"
+ },
+ {
+   "name": "E650",
+   "content": "Zinc acetate",
+   "type": "Other"
+ },
+ {
+   "name": "E900",
+   "content": "Dimethylpolysiloxane",
+   "type": "Other"
+ },
+ {
+   "name": "E901",
+   "content": "Beeswax, white and yellow",
+   "type": "Other"
+ },
+ {
+   "name": "E902",
+   "content": "Candelilla wax",
+   "type": "Other"
+ },
+ {
+   "name": "E903",
+   "content": "Carnauba wax",
+   "type": "Other"
+ },
+ {
+   "name": "E904",
+   "content": "Shellac",
+   "type": "Other"
+ },
+ {
+   "name": "E905",
+   "content": "Microcrystalline wax",
+   "type": "Other"
+ },
+ {
+   "name": "E907",
+   "content": "Hydrogenated Poly-1-Decene",
+   "type": "Other"
+ },
+ {
+   "name": "E912",
+   "content": "Montan acid esters",
+   "type": "Other"
+ },
+ {
+   "name": "E914",
+   "content": "Oxidised Polyethylene wax",
+   "type": "Other"
+ },
+ {
+   "name": "E920",
+   "content": "L-Cysteine",
+   "type": "Other"
+ },
+ {
+   "name": "E927b",
+   "content": "Carbamide",
+   "type": "Other"
+ },
+ {
+   "name": "E938",
+   "content": "Argon",
+   "type": "Other"
+ },
+ {
+   "name": "E939",
+   "content": "Helium",
+   "type": "Other"
+ },
+ {
+   "name": "E941",
+   "content": "Nitrogen",
+   "type": "Other"
+ },
+ {
+   "name": "E942",
+   "content": "Nitrous oxide",
+   "type": "Other"
+ },
+ {
+   "name": "E943a",
+   "content": "Butane",
+   "type": "Other"
+ },
+ {
+   "name": "E943b",
+   "content": "Iso-butane",
+   "type": "Other"
+ },
+ {
+   "name": "E944",
+   "content": "Propane",
+   "type": "Other"
+ },
+ {
+   "name": "E948",
+   "content": "Oxygen",
+   "type": "Other"
+ },
+ {
+   "name": "E949",
+   "content": "Hydrogen",
+   "type": "Other"
+ },
+ {
+   "name": "E999",
+   "content": "Quillaia extract",
+   "type": "Other"
+ },
+ {
+   "name": "E1200",
+   "content": "Polydextrose",
+   "type": "Other"
+ },
+ {
+   "name": "E1201",
+   "content": "Polyvinylpyrrolidone",
+   "type": "Other"
+ },
+ {
+   "name": "E1202",
+   "content": "Polyvinylpolypyrrolidone",
+   "type": "Other"
+ },
+ {
+   "name": "E1203",
+   "content": "Polyvinyl alcohol",
+   "type": "Other"
+ },
+ {
+   "name": "E1204",
+   "content": "Pullulan",
+   "type": "Other"
+ },
+ {
+   "name": "E1205",
+   "content": "Basic methacrylate copolymer",
+   "type": "Other"
+ },
+ {
+   "name": "E1206",
+   "content": "Neutral methacrylate copolymer",
+   "type": "Other"
+ },
+ {
+   "name": "E1207",
+   "content": "Anionic methacrylate copolymer",
+   "type": "Other"
+ },
+ {
+   "name": "E1208",
+   "content": "Polyvinylpyrrolidone-vinyl acetate copolymer",
+   "type": "Other"
+ },
+ {
+   "name": "E1209",
+   "content": "Polyvinyl alcohol-polyethylene glycol-graft- co-polymer",
+   "type": "Other"
+ },
+ {
+   "name": "E1404",
+   "content": "Oxidised starch",
+   "type": "Other"
+ },
+ {
+   "name": "E1410",
+   "content": "Monostarch phosphate",
+   "type": "Other"
+ },
+ {
+   "name": "E1412",
+   "content": "Distarch phosphate",
+   "type": "Other"
+ },
+ {
+   "name": "E1413",
+   "content": "Phosphated distarch phosphate",
+   "type": "Other"
+ },
+ {
+   "name": "E1414",
+   "content": "Acetylated distarch phosphate",
+   "type": "Other"
+ },
+ {
+   "name": "E1420",
+   "content": "Acetylated starch",
+   "type": "Other"
+ },
+ {
+   "name": "E1422",
+   "content": "Acetylated distarch adipate",
+   "type": "Other"
+ },
+ {
+   "name": "E1440",
+   "content": "Hydroxyl propyl starch",
+   "type": "Other"
+ },
+ {
+   "name": "E1442",
+   "content": "Hydroxy propyl distarch phosphate",
+   "type": "Other"
+ },
+ {
+   "name": "E1450",
+   "content": "Starch sodium octenyl succinate",
+   "type": "Other"
+ },
+ {
+   "name": "E1451",
+   "content": "Acetylated oxidised starch",
+   "type": "Other"
+ },
+ {
+   "name": "E1452",
+   "content": "Starch aluminium Octenyl succinate",
+   "type": "Other"
+ },
+ {
+   "name": "E1505",
+   "content": "Triethyl citrate",
+   "type": "Other"
+ },
+ {
+   "name": "E1517",
+   "content": "Glyceryl diacetate (diacetin)",
+   "type": "Other"
+ },
+ {
+   "name": "E1518",
+   "content": "Glyceryl triacetate; triacetin",
+   "type": "Other"
+ },
+ {
+   "name": "E1519",
+   "content": "Benzyl alcohol",
+   "type": "Other"
+ },
+ {
+   "name": "E1520",
+   "content": "Propan-1,2-diol; propylene glycol",
+   "type": "Other"
+ },
+ {
+   "name": "E1521",
+   "content": "Polyethylene glycol",
+   "type": "Other"
+ }
+]

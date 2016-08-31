@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>E-number Lookup</title>
+<script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="style.css">
+<script src="autocomplete.js"></script>
+<script src="enumbers.js"></script>
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setDomains", ["*.enumbers.thefuzz.xyz"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//bspiwik.pe.hu/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '6']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//bspiwik.pe.hu/piwik.php?idsite=6" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+</head>
+
+<body>
+<div id="wrapper">
+<header><a href="javascript:location.reload();">E-number Lookup</a></header>
+<div id="content">
+<div id="searchboxholder"><input type="text" id="searchbox" title="Search for an E-number"></div>
+<div id="info">Please enter an E-number.<br />
+<span id="what"><a href="javascript:void(0)" onclick='toggledescription();'>What is an E-number?</a></span></div>
+<div id="description">
+<strong>E-number <i>(British)</i></strong><br>
+<i>noun</i>: E-number; <i>plural noun:</i> E-numbers<br><br>
+A code number preceded by the letter E, denoting food additives numbered in accordance with EU directives.
+<br><br><strong><i>Informal:</i></strong> A food additive.
+</div>
+<div id="results">
+<div id="name"></div>
+<div id="results2">
+<div id="type"></div>
+<div id="contents"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="footer">
+<footer>Made By <a href="https://thefuzz.xyz" target="_blank">Fuzzy</a>. | Buy me <a href="http://paypal.me/fuzzymannerz" target="_blank">some E175</a>?<br>
+BTC: 1DUJH2kqccDpTHHSCXDkRGhxtvXm9PdnkN</footer>
+</div>
+<div class="flattr"><a href="https://flattr.com/submit/auto?fid=rok0q2&url=https%3A%2F%2Fenumbers.thefuzz.xyz" target="_blank"><img src="//button.flattr.com/flattr-badge-large.png" alt="Flattr this" title="Flattr this" border="0"></a></div>
+</body>
+</html>
